@@ -2,10 +2,11 @@ import java.util.Arrays;
 
 public class Search {
     public static void main(String[] args) {
-        int[] array = { 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024 };
+        int[] array = { 2, 1, 4, 8, 16, 32, 64, 128, 256, 512, 1024 };
 
-        System.out.println(linearSearch(array, 5));
-        System.out.println(Arrays.binarySearch(array, 3));
+        Arrays.sort(array);
+        System.out.println(Arrays.toString(array));
+        // System.out.println(Arrays.binarySearch(array, 3));
     }
 
     private static int linearSearch(int[] array, int value) {
