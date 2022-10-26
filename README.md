@@ -31,10 +31,11 @@ Has index
 -   Enable data and information hiding from other classes.
 ### Polymorphism
 -   Multiple forms
--   Overloading and function overloading
+-   Function overloading
 -   2 types: static and dynamic
 ### Abstraction:
 -   Show only essential information and hide unnecessary information
+-   2 types: Class abstract and method abstract
 
 ## Abtract class VS Interface
 ### Differences:
