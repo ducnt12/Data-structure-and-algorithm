@@ -1,3 +1,5 @@
+# Intro 
+Basic knowledge of programming. 
 # Data Structure
 ## Stack
 Last in First out (LIFO)
