@@ -1,3 +1,25 @@
+# Data Structure
+## Stack
+Last in First out (LIFO)
+## Queue
+First in first out (FIFO)
+## LinkedList
+Same with List. Has no index. 
+- SLow in searching and accessing
+- Fast in adding and removing
+## List
+Has index
+- Fast when searching and accessing data
+- Slow in adding and removing
+## HashMap (Dictionary)
+- 1 key and 1 value. Good when finding item frequency
+- Constant time when doing searching, acessing, adding or removing data.
+- Has no index. Access using key or value.
+- Does not allow duplicates
+## HashSet (Set)
+- Has 1 key only
+- Does not allow duplicate
+- Constant time when doing searching, acessing, adding or removing data.
 # OOP
 ## Characteristics of OOP
 ### Inheritance:
