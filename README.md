@@ -20,6 +20,7 @@ Has index
 - Has 1 key only
 - Does not allow duplicate
 - Constant time when doing searching, acessing, adding or removing data.
+- Perfect when finding unique key.
 # OOP
 ## Characteristics of OOP
 ### Inheritance:
