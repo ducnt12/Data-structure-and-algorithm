@@ -19,7 +19,8 @@ Has index
 - Has no index. Access using key or value.
 - Does not allow duplicates
 ## HashSet (Set)
-- Has 1 key only
+- Has no order.
+- Has only key.
 - Does not allow duplicate
 - Constant time when doing searching, acessing, adding or removing data.
 - Perfect when finding unique key.
